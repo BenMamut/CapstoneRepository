@@ -65,11 +65,9 @@ CapstoneRepository/
 
 ## Dependencies
 
-- Python 3.8+ (tested on 3.13)
-- NumPy
-- SciPy
-
-(See `requirements.txt` for exact versions.)
+- Python 3.13
+- NumPy 2.2.5
+- Matplotlib 3.10.1
 
 ---
 
