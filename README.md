@@ -57,7 +57,7 @@ CapstoneRepository/
 ├── Quaternion_Utils.py       # Quaternion math utilities
 ├── Monte_Carlo.py            # Runs 10,000 flight simulations
 ├── Simulation_Results.csv    # (generated) Monte Carlo results
-├── requirements.txt          # Python dependencies
+├── LICENSE                   # MIT License
 └── README.md                 # Project documentation
 ```
 
