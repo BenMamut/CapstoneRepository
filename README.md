@@ -31,9 +31,6 @@ This repository contains a Python simulation of a dynamic autonomous air brake s
    ```
 
 3. **Install required packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Run Instructions
 
